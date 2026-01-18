@@ -1,11 +1,12 @@
 👋 Hi, I'm Jareer Umar
 
-I'm a Junior Full Stack .NET Developer passionate about building clean, scalable, and maintainable applications.
+I'm a backend-focused .NET developer who builds clean, scalable, and maintainable applications using ASP.NET Core, C#, and SQL Server.
 
-I have hands-on experience working on real-world projects using ASP.NET Core, C#, SQL Server, and REST APIs, and I enjoy refactoring legacy code into clean, service-based architectures using dependency injection.
+I have hands-on experience working on real-world systems, including refactoring legacy codebases into service-based clean architecture using dependency injection, building REST APIs, and delivering full-stack applications with React and TypeScript.
+
+I enjoy solving backend problems, improving code quality, and building systems that are reliable and easy to maintain.
 
 🚀 Tech Stack
-
 Backend
 
 ASP.NET Core
@@ -40,26 +41,27 @@ Visual Studio
 
 NPM
 
-🧠 What I’m Working On
-
-Improving backend architecture patterns
-
-Writing cleaner, scalable APIs
-
-Strengthening full-stack development skills
-
-Preparing for junior backend / full-stack roles
-
 📂 Featured Projects
+🎓 School Management System — ASP.NET + SQL Server
 
-School Management System – ASP.NET + SQL Server
-Automated fee system, student records, and backend logic
+Automated monthly fee generation, student records management, and backend business logic.
 
-Desktop Chat Application (WPF)
-Secure messaging with AES encryption
+➡️ Repository: [Link here]
+➡️ Screenshots: [Link here]
 
-Astroship Frontend App
-React + TypeScript frontend deployed on Vercel
+💬 Desktop Chat Application — WPF + C#
+
+Secure messaging system with AES encryption and full CRUD operations.
+
+➡️ Repository: [Link here]
+➡️ Screenshots: [Link here]
+
+🌐 Astroship Frontend App — React + TypeScript
+
+Responsive frontend application deployed on Vercel demonstrating component-based design.
+
+➡️ Repository: [Link here]
+➡️ Live Demo: [Link here]
 
 📫 Contact
 
