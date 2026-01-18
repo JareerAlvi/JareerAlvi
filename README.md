@@ -46,15 +46,13 @@ NPM
 
 Automated monthly fee generation, student records management, and backend business logic.
 
-➡️ Repository: [Link here]
-➡️ Screenshots: [Link here]
+➡️ Repository: [School Management System](https://github.com/JareerAlvi/School-Management-System.git)
 
 💬 Desktop Chat Application — WPF + C#
 
 Secure messaging system with AES encryption and full CRUD operations.
 
 ➡️ Repository: [Link here]
-➡️ Screenshots: [Link here]
 
 🌐 Astroship Frontend App — React + TypeScript
 
