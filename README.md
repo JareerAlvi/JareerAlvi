@@ -52,14 +52,14 @@ Automated monthly fee generation, student records management, and backend busine
 
 Secure messaging system with AES encryption and full CRUD operations.
 
-➡️ Repository: [Link here]
+➡️ Repository: [[Desktop Chat Application](https://github.com/JareerAlvi/Desktop-Chat-Application.git)]
 
 🌐 Astroship Frontend App — React + TypeScript
 
 Responsive frontend application deployed on Vercel demonstrating component-based design.
 
-➡️ Repository: [Link here]
-➡️ Live Demo: [Link here]
+➡️ Repository: [[School Management System](https://github.com/JareerAlvi/Astroship-Frontend-Application.git)]
+
 
 📫 Contact
 
